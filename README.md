@@ -6,6 +6,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 ### RayleighForcedChoice
 
+* [2021-04-15_OLRayleighMatch_PreRegistration](http://google.com)  - Preregistration for initial data collection in this project.  This file posted after XX matches collected for Subject MELA_0034 and 2 matches collected for Subject MELA_0035.
 
 
 
