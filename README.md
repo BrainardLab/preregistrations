@@ -15,5 +15,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 ### Optoretinography
 
+* [2021-02-17 Test Reciprocity and Reliability of the Cone Optoretinogram](https://osf.io/sk78u/). This preregistration is not yet public. It provided preliminary data that informed the 2021-08-30 preregistration below.
+
 * [2021-08-30 Measuring Cone Optoretinogram Reciprocity and Repeatability using Adaptive Optics Scanning Laser Opthalmoscope](https://osf.io/xufdh/) - This preregistration is not yet public.
 
