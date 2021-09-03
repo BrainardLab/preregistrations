@@ -18,3 +18,6 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2021-02-17 Test Reciprocity and Reliability of the Cone Optoretinogram](https://osf.io/sk78u/). This preregistration is not yet public. It provided preliminary data that informed the 2021-08-30 preregistration below.
 * [2021-08-30 Measuring Cone Optoretinogram Reciprocity and Repeatability using Adaptive Optics Scanning Laser Opthalmoscope](https://osf.io/xufdh/) - This preregistration is not yet public.
 
+## Adaptive Optics Image Quality
+
+* [2020-12-04 Automated assessment of image quality in AO split detection images using edge quantification](https://osf.io/vmh6s/) - Work complete, manuscript in preparation. 
