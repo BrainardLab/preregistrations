@@ -1,6 +1,6 @@
 # Brainard Lab Experiment Preregistrations
 
-Experiments in the Brainard Lab are usually preregistered. This page organizes links to these pre-registration documents by project. We sometimes make use of the [open science foundation](https://osf.org) website for this purpose, but also find reasonable simply committing preregistration documents to this repository. In some cases, depending on our collaborators or funding agency requirements, we use other mechanisms of pre-registration such as [clinicaltrials.gov](https://clinicaltrials.gov).
+Experiments in the Brainard Lab are usually preregistered. This page organizes links to these pre-registration documents by project. We sometimes make use of the [open science foundation](https://osf.io) website for this purpose, but also find reasonable simply committing preregistration documents to this repository. In some cases, depending on our collaborators or funding agency requirements, we use other mechanisms of pre-registration such as [clinicaltrials.gov](https://clinicaltrials.gov).
 
 [This page](https://github.com/BrainardLab/preregistrations/wiki/Older-Preregistrations) contains links to experiments we preregistered prior to 2021.
 
