@@ -1,12 +1,12 @@
 # Brainard Lab Experiment Preregistrations
 
-Experiments in the Brainard Lab are usually preregistered. This page organizes links to these pre-registration documents by project. We initially made use of the open science foundation website for this purpose, but we are moving towards simply committing documents to this repository, which accomplishes the same goal of establishing a date-and-time stamped record of our plans prior to embarking on an experiment. In some cases, depending on our collaborators or funding agency requirements, we use other mechanisms of pre-registration and link to them here.
+Experiments in the Brainard Lab are usually preregistered. This page organizes links to these pre-registration documents by project. We sometimes make use of the [open science foundation](osf.org) website for this purpose, but also find reasonable simply committing preregistration documents to this repository. In some cases, depending on our collaborators or funding agency requirements, we use other mechanisms of pre-registration such as [clinicaltrials.gov](clinicaltrials.gov).
 
 [This page](https://github.com/BrainardLab/preregistrations/wiki/Older-Preregistrations) contains links to experiments we preregistered prior to 2021.
 
 ## ColorTracking
 
-* [2021-09-30 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm](https://osf.io/tsqvf/).
+* [2021-09-30 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm](https://osf.io/tsqvf/). This preregistration is currently private.
 
 ## RayleighForcedChoice
 
