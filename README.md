@@ -4,6 +4,10 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 [This page](https://github.com/BrainardLab/preregistrations/wiki/Older-Preregistrations) contains links to experiments we preregistered prior to 2021.
 
+## ColorTracking
+
+* [2021-09-30 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm](https://osf.io/tsqvf/).
+
 ## RayleighForcedChoice
 
 * [2021-04-15_OLRayleighMatch_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ForcedChoiceCM/RayleighForcedChoice/2012-04-15_OLRayleighMatch_PreRegistration.pdf)  - Preregistration for initial data collection in this project.  This file posted after 6 matches collected for Subject MELA_0034 and 2 matches collected for Subject MELA_0035.
