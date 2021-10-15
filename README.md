@@ -29,5 +29,5 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 ## Virtual World Psychphysics (with Singh lab)
 
-* [2021-10-15_NaturalImageThresholds_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/NaturalImageThresholds/InitialExperiments_2021/2021-08-12_NaturalImageThresholds_PreRegistration.pdf)  - Preregistration for initial data collection in this project. This preregistration was posted to [ClinicalTrials.gov](ClinicalTrials.gov) in advance of the start of data collection: [NCT number: NCT05004649; protocol ID number 305435. The version there is archival](https://clinicaltrials.gov/ct2/show/NCT05004649).
+* [2021-10-15_Virtual World Psychophysics](https://osf.io/ayf5c/) - Preregistration for data collection in the Singh lab.
 
