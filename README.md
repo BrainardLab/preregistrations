@@ -35,6 +35,6 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 ## Adaptive optics psychophysics: two spot summation (with Morgan and Tuten labs)
 
-* [2021-10-15_Virtual World Psychophysics](https://osf.io/ayf5c/) - Preregistration for two-spot summation with same and different spot polarities, as a funciton of spot separation.
+* [2022-02-01_AO Two Spot Summation](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-2022-02-01.pdf) - Preregistration for two-spot summation with same and different spot polarities, as a funciton of spot separation.
 
 
