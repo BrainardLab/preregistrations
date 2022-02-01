@@ -33,3 +33,8 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 * [2021-10-15_Virtual World Psychophysics](https://osf.io/ayf5c/) - Preregistration for data collection in the Singh lab.
 
+## Adaptive optics psychophysics: two spot summation (with Morgan and Tuten labs)
+
+* [2021-10-15_Virtual World Psychophysics](https://osf.io/ayf5c/) - Preregistration for two-spot summation with same and different spot polarities, as a funciton of spot separation.
+
+
