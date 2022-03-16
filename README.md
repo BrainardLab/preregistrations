@@ -9,8 +9,8 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2021-09-30 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 1](https://osf.io/xvsm3/). Data collection complete.
 * [2021-10-27 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 2](https://osf.io/5y2dh/). Data collection complete.
 * [2021-12-14 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 3](https://osf.io/e6dfs/). Data collection complete.
-* [2021-12-14 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 4](https://osf.io/ekv24/). Data collection complete.
-* [2021-12-14 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 5](https://osf.io/ewaum/).
+* [2022-02-12 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 4](https://osf.io/ekv24/). Data collection complete.
+* [2022-03-15 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 5](https://osf.io/ewaum/).
 
 ## RayleighForcedChoice
 
