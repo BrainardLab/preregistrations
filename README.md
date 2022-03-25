@@ -6,9 +6,11 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 ## ColorTracking (with Burge lab)
 
-* [2021-09-30 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 1](https://osf.io/xvsm3/).
-* [2021-10-27 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 2](https://osf.io/5y2dh/).
-* [2021-12-14 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 3](https://osf.io/e6dfs/).
+* [2021-09-30 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 1](https://osf.io/xvsm3/). Data collection complete.
+* [2021-10-27 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 2](https://osf.io/5y2dh/). Data collection complete.
+* [2021-12-14 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 3](https://osf.io/e6dfs/). Data collection complete.
+* [2022-02-12 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 4](https://osf.io/ekv24/). Data collection complete.
+* [2022-03-15 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 5](https://osf.io/ewaum/).
 
 ## RayleighForcedChoice
 
@@ -35,6 +37,6 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 ## Adaptive optics psychophysics: two spot summation (with Morgan and Tuten labs)
 
-* [2022-02-01_AO Two Spot Summation](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-2022-02-01.pdf) - Preregistration for two-spot summation with same and different spot polarities, as a funciton of spot separation.
-* [2022-02-04_AO Two Spot Summation, Addendum 1](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-Addendum-2022-02-04.pdf) - Addendum 1, two-spot summation with same and different spot polarities, as a funciton of spot separation.
+* [2022-02-01_AO Two Spot Summation](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-2022-02-01.pdf) - Preregistration for two-spot summation with same and different spot polarities, as a function of spot separation.
+* [2022-02-04_AO Two Spot Summation, Addendum 1](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-Addendum-2022-02-04.pdf) - Addendum 1, two-spot summation with same and different spot polarities, as a function of spot separation.
 
