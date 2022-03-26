@@ -39,4 +39,5 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 * [2022-02-01_AO Two Spot Summation](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-2022-02-01.pdf) - Preregistration for two-spot summation with same and different spot polarities, as a function of spot separation.
 * [2022-02-04_AO Two Spot Summation, Addendum 1](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-Addendum-2022-02-04.pdf) - Addendum 1, two-spot summation with same and different spot polarities, as a function of spot separation.
+* [2022-03-26_AO Two Spot Summation, Addendum 2](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-Addendum-2022-03-25.pdf) - Addendum 2, two-spot summation with same and different spot polarities, as a function of spot separation.
 
