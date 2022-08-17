@@ -30,7 +30,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 ## Adaptive Optics Image Quality (with Morgan lab)
 
 * [2020-12-04 Automated assessment of image quality in AO split detection images using edge quantification](https://osf.io/vmh6s/)
-* This project published: Chen, M., Jiang, Y. Y., Gee J. C., Brainard, D. H., Morgan, J. I. W. (2022), Automated assessment of photoreceptor visibility in adaptive optics split-detection images using edge detection. Trans. Vis. Sci. Tech., 11(5):25. doi: https://doi.org/10.1167/tvst.11.5.25.
+* Published in: Chen, M., Jiang, Y. Y., Gee J. C., Brainard, D. H., Morgan, J. I. W. (2022), Automated assessment of photoreceptor visibility in adaptive optics split-detection images using edge detection. Trans. Vis. Sci. Tech., 11(5):25. doi: https://doi.org/10.1167/tvst.11.5.25.
 
 ## Virtual World Psychphysics (with Singh lab)
 
