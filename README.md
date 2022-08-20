@@ -41,10 +41,6 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2020-12-04 Automated assessment of image quality in AO split detection images using edge quantification](https://osf.io/vmh6s/)
 * Status: Project complete. Published in Chen, M., Jiang, Y. Y., Gee J. C., Brainard, D. H., Morgan, J. I. W. (2022), Automated assessment of photoreceptor visibility in adaptive optics split-detection images using edge detection. Trans. Vis. Sci. Tech., 11(5):25. doi: https://doi.org/10.1167/tvst.11.5.25.
 
-## Virtual World Psychphysics (with Singh lab)
-
-* [2021-10-15_Virtual World Psychophysics](https://osf.io/ayf5c/). Preregistration for data collection in the Singh lab.
-
 ## Adaptive optics psychophysics: two spot summation (with Morgan and Tuten labs)
 
 * [2022-02-01_AO Two Spot Summation](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-2022-02-01.pdf) - Preregistration for two-spot summation with same and different spot polarities, as a function of spot separation.
