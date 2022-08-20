@@ -21,11 +21,16 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 * [2021-08-12_NaturalImageThresholds_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/NaturalImageThresholds/InitialExperiments_2021/2021-08-12_NaturalImageThresholds_PreRegistration.pdf)  - Preregistration for initial data collection in this project. This preregistration was posted to [ClinicalTrials.gov](ClinicalTrials.gov) in advance of the start of data collection: [NCT number: NCT05004649; protocol ID number 305435. The version there is archival](https://clinicaltrials.gov/ct2/show/NCT05004649).
 
-## Optoretinography (with Morgan lab)
+## Optoretinography Reliability and Reciprocity (with Morgan lab)
 
 * [2021-02-17 Test Reciprocity and Reliability of the Cone Optoretinogram](https://osf.io/sk78u/). This preregistration is not yet public. It provided preliminary data that informed the 2021-08-30 preregistration below.
-* [2021-08-30 Measuring Cone Optoretinogram Reciprocity and Repeatability using Adaptive Optics Scanning Laser Opthalmoscope](https://osf.io/xufdh/) - This preregistration is not yet public.
-* [2021-09-15 Addendum on light power](https://osf.io/uah7m/) - This preregistration is not yet public.
+* [2021-08-30 Measuring Cone Optoretinogram Reciprocity and Repeatability using Adaptive Optics Scanning Laser Opthalmoscope](https://osf.io/xufdh/). This preregistration is not yet public.
+* [2021-09-15 Addendum on light power](https://osf.io/uah7m/). This preregistration is not yet public.
+* This work is currently submitted for publication.
+
+## Optoretinography Dependence on Eccentricity
+
+* [22-19-22] [Normative Cone Optoretinography Across Retinal Eccentricity using Adaptive Optics Scanning Laser Ophthalmoscopy] (https://osf.io/n759w/). This pregistration is not yet public.
 
 ## Adaptive Optics Image Quality (with Morgan lab)
 
