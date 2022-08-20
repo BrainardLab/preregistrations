@@ -31,7 +31,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2021-09-15 Addendum on light power](https://osf.io/uah7m/). This preregistration is not yet public.
 * Status (2022-08-20: This work is currently submitted for publication.
 
-## Optoretinography Dependence on Eccentricity
+## Optoretinography Dependence on Eccentricity (with Morgan Lab)
 
 * [22-19-22] [Normative Cone Optoretinography Across Retinal Eccentricity using Adaptive Optics Scanning Laser Ophthalmoscopy] (https://osf.io/n759w/). This pregistration is not yet public.
 * Status (2022-08-20: Data collection in progress.
