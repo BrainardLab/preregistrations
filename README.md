@@ -11,39 +11,43 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2021-12-14 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 3](https://osf.io/e6dfs/). Data collection complete.
 * [2022-02-12 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 4](https://osf.io/ekv24/). Data collection complete.
 * [2022-03-15 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 5](https://osf.io/ewaum/).
+* Status (2022-08-20: Data collection complete. Preliminary descriptions available in Michael Barnett's and Ben Chin's dissertations. Manuscript in preparation.
 
 ## RayleighForcedChoice
 
-* [2021-04-15_OLRayleighMatch_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ForcedChoiceCM/RayleighForcedChoice/2012-04-15_OLRayleighMatch_PreRegistration.pdf)  - Preregistration for initial data collection in this project.  This file posted after 6 matches collected for Subject MELA_0034 and 2 matches collected for Subject MELA_0035.
-* [2021-04-15_OLRayleighMatch_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ForcedChoiceCM/RayleighForcedChoice/2021-07-07_OLRayleighMatch_PreRegistration_Updated.pdf) - Preregistration for data collection on three new subjects with refined procedure.
+* [2021-04-15_OLRayleighMatch_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ForcedChoiceCM/RayleighForcedChoice/2012-04-15_OLRayleighMatch_PreRegistration.pdf). Preregistration for initial data collection in this project.  This file posted after 6 matches collected for Subject MELA_0034 and 2 matches collected for Subject MELA_0035.
+* [2021-04-15_OLRayleighMatch_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ForcedChoiceCM/RayleighForcedChoice/2021-07-07_OLRayleighMatch_PreRegistration_Updated.pdf). Preregistration for data collection on three new subjects with refined procedure.
+* Status (2022-08-20): Project potentially ongoing.
 
 ## NaturalImageThresholds (with Cohen lab)
 
 * [2021-08-12_NaturalImageThresholds_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/NaturalImageThresholds/InitialExperiments_2021/2021-08-12_NaturalImageThresholds_PreRegistration.pdf)  - Preregistration for initial data collection in this project. This preregistration was posted to [ClinicalTrials.gov](ClinicalTrials.gov) in advance of the start of data collection: [NCT number: NCT05004649; protocol ID number 305435. The version there is archival](https://clinicaltrials.gov/ct2/show/NCT05004649).
+* Status (2022-08-20: Data collection complete. Progress ongoing.
 
 ## Optoretinography Reliability and Reciprocity (with Morgan lab)
 
 * [2021-02-17 Test Reciprocity and Reliability of the Cone Optoretinogram](https://osf.io/sk78u/). This preregistration is not yet public. It provided preliminary data that informed the 2021-08-30 preregistration below.
 * [2021-08-30 Measuring Cone Optoretinogram Reciprocity and Repeatability using Adaptive Optics Scanning Laser Opthalmoscope](https://osf.io/xufdh/). This preregistration is not yet public.
 * [2021-09-15 Addendum on light power](https://osf.io/uah7m/). This preregistration is not yet public.
-* This work is currently submitted for publication.
+* Status (2022-08-20: This work is currently submitted for publication.
 
 ## Optoretinography Dependence on Eccentricity
 
 * [22-19-22] [Normative Cone Optoretinography Across Retinal Eccentricity using Adaptive Optics Scanning Laser Ophthalmoscopy] (https://osf.io/n759w/). This pregistration is not yet public.
+* Status (2022-08-20: Data collection in progress.
 
 ## Adaptive Optics Image Quality (with Morgan lab)
 
 * [2020-12-04 Automated assessment of image quality in AO split detection images using edge quantification](https://osf.io/vmh6s/)
-* Published in: Chen, M., Jiang, Y. Y., Gee J. C., Brainard, D. H., Morgan, J. I. W. (2022), Automated assessment of photoreceptor visibility in adaptive optics split-detection images using edge detection. Trans. Vis. Sci. Tech., 11(5):25. doi: https://doi.org/10.1167/tvst.11.5.25.
+* Status: Project complete. Published in Chen, M., Jiang, Y. Y., Gee J. C., Brainard, D. H., Morgan, J. I. W. (2022), Automated assessment of photoreceptor visibility in adaptive optics split-detection images using edge detection. Trans. Vis. Sci. Tech., 11(5):25. doi: https://doi.org/10.1167/tvst.11.5.25.
 
 ## Virtual World Psychphysics (with Singh lab)
 
-* [2021-10-15_Virtual World Psychophysics](https://osf.io/ayf5c/) - Preregistration for data collection in the Singh lab.
+* [2021-10-15_Virtual World Psychophysics](https://osf.io/ayf5c/). Preregistration for data collection in the Singh lab.
 
 ## Adaptive optics psychophysics: two spot summation (with Morgan and Tuten labs)
 
 * [2022-02-01_AO Two Spot Summation](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-2022-02-01.pdf) - Preregistration for two-spot summation with same and different spot polarities, as a function of spot separation.
 * [2022-02-04_AO Two Spot Summation, Addendum 1](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-Addendum-2022-02-04.pdf) - Addendum 1, two-spot summation with same and different spot polarities, as a function of spot separation.
 * [2022-03-26_AO Two Spot Summation, Addendum 2](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-Addendum-2022-03-25.pdf) - Addendum 2, two-spot summation with same and different spot polarities, as a function of spot separation.
-
+* Status (2022-08-20: Project ongoing.
