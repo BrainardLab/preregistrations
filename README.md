@@ -22,7 +22,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 ## NaturalImageThresholds (with Cohen lab)
 
 * [2021-08-12_NaturalImageThresholds_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/NaturalImageThresholds/InitialExperiments_2021/2021-08-12_NaturalImageThresholds_PreRegistration.pdf)  - Preregistration for initial data collection in this project. This preregistration was posted to [ClinicalTrials.gov](ClinicalTrials.gov) in advance of the start of data collection: [NCT number: NCT05004649; protocol ID number 305435. The version there is archival](https://clinicaltrials.gov/ct2/show/NCT05004649).
-* Status (2022-08-20: Data collection complete. Progress ongoing.
+* Status (2023-04-12: Data collection complete. Analysis and writeup ongoing. Data posted at [OSF](https://osf.io/yf3sr/).
 
 ## Optoretinography Reliability and Reciprocity (with Morgan lab)
 
