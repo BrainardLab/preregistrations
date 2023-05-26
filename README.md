@@ -33,7 +33,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 ## Optoretinography Dependence on Eccentricity (with Morgan Lab)
 
-* [2022-19-22 Nrmative Cone Optoretinography Across Retinal Eccentricity using Adaptive Optics Scanning Laser Ophthalmoscopy](https://osf.io/n759w/). This pregistration is not yet public.
+* [2022-08-19 Nrmative Cone Optoretinography Across Retinal Eccentricity using Adaptive Optics Scanning Laser Ophthalmoscopy](https://osf.io/n759w/). This pregistration is not yet public.
 * Status (2023-05-26): Data collection halted because of apparatus issues. Project will be restarted soon.
 
 ## Single Cone Optoretinography (with Morgan Lab)
