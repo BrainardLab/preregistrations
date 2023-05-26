@@ -38,7 +38,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 ## Single Cone Optoretinography (with Morgan Lab)
 
-* [2023-05-22] [Dose-Respose of the Single Cone Optoretinogram using Adaptive Optics Scanning Laser Ophthalmoscopyy] (https://osf.io/72u5s). This pregistration is not yet public.
+* [2023-05-22 Dose-Respose of the Single Cone Optoretinogram using Adaptive Optics Scanning Laser Ophthalmoscopyy] (https://osf.io/72u5s). This pregistration is not yet public.
 * Status (2023-05-26): Data collection halted because of apparatus issues. Project will be restarted soon.
 
 ## Adaptive Optics Image Quality (with Morgan lab)
