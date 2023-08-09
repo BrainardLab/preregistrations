@@ -40,6 +40,10 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 * [2023-05-22 Dose-Respose of the Single Cone Optoretinogram using Adaptive Optics Scanning Laser Ophthalmoscopyy](https://osf.io/72u5s). This pregistration is not yet public.
 
+## Repeatability of sensitivity thresholds in normal controls
+
+* [2023-08-08 Fepeatability of foveal sensitivity measurements within and across sessions as measured with adaptive optics (AO) microperimetry in normal control subjects](https://osf.io/bzf6g/). This pregistration is not yet public.
+
 ## Adaptive Optics Image Quality (with Morgan lab)
 
 * [2020-12-04 Automated assessment of image quality in AO split detection images using edge quantification](https://osf.io/vmh6s/)
