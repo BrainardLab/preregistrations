@@ -55,3 +55,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2022-02-04_AO Two Spot Summation, Addendum 1](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-Addendum-2022-02-04.pdf) - Addendum 1, two-spot summation with same and different spot polarities, as a function of spot separation.
 * [2022-03-26_AO Two Spot Summation, Addendum 2](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-Addendum-2022-03-25.pdf) - Addendum 2, two-spot summation with same and different spot polarities, as a function of spot separation.
 * Status (2022-08-20: Project ongoing.
+
+## Color ellipsoids (with Williams and Guan labs)
+
+* [2024-11-18-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2024-11-18-ELPS_1_PreRegistration.pdf) - Preregistration for ELPS project Exp 1.
