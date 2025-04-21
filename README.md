@@ -59,5 +59,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 ## Color ellipsoids (with Williams and Guan labs)
 
 * [2024-11-18-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2024-11-18-ELPS_1_PreRegistration.pdf) - Preregistration for ELPS project Exp 1.
-* [2024-11-18-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2024-11-18-ELPS_1_PreRegistration.pdf) - Preregistration for ELPS project Exp 2.
+* [2025-02-25-ELPS_2_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2025-02-25-ELPS_2_PreRegistration.pdf) - Preregistration for ELPS project Exp 2.
+* [2025-03-04-ELPS_2a_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2025-03-04-ELPS_2a_PreRegistration.pdf) - Preregistration for ELPS project Exp 2a.
+* [2025-04-21-ELPS_3_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2025-04-21-ELPS_3_PreRegistration.pdf) - Preregistration for ELPS project Exp 3.
 
