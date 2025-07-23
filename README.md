@@ -54,7 +54,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2022-02-01_AO Two Spot Summation](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-2022-02-01.pdf) - Preregistration for two-spot summation with same and different spot polarities, as a function of spot separation.
 * [2022-02-04_AO Two Spot Summation, Addendum 1](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-Addendum-2022-02-04.pdf) - Addendum 1, two-spot summation with same and different spot polarities, as a function of spot separation.
 * [2022-03-26_AO Two Spot Summation, Addendum 2](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-Addendum-2022-03-25.pdf) - Addendum 2, two-spot summation with same and different spot polarities, as a function of spot separation.
-* Status (2022-08-20: Project ongoing.
+* Status (2022-08-20: Project unlikely to complete.
 
 ## Color ellipsoids (with Williams and Guan labs)
 
@@ -62,4 +62,6 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2025-02-25-ELPS_2_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2025-02-25-ELPS_2_PreRegistration.pdf) - Preregistration for ELPS project Exp 2.
 * [2025-03-04-ELPS_2a_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2025-03-04-ELPS_2a_PreRegistration.pdf) - Preregistration for ELPS project Exp 2a.
 * [2025-04-21-ELPS_3_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2025-04-21-ELPS_3_PreRegistration.pdf) - Preregistration for ELPS project Exp 3.
+* Status (2025-07-23). Preprint at  Hong, F., Bouhassira, R., Chow, J., Sanders, C., Shvartsman, M., Guan, P., Williams, A. H., & Brainard, D. H. (2025). Comprehensive characterization of human color discrimination thresholds. bioRxiv, 2025.2007.2016.665219. https://doi.org/10.1101/2025.07.16.665219.
+
 
