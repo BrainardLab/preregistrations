@@ -56,7 +56,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2022-03-26_AO Two Spot Summation, Addendum 2](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-Addendum-2022-03-25.pdf) - Addendum 2, two-spot summation with same and different spot polarities, as a function of spot separation.
 * Status (2025-07-23). Project unlikely to complete at Penn.
 
-## Color ellipsoids (with Williams and Guan labs)
+## Color discrimination ellipss in the iosluminant plane (with Williams and Guan labs)
 
 * [2024-11-18-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2024-11-18-ELPS_1_PreRegistration.pdf) - Preregistration for ELPS project Exp 1.
 * [2025-02-25-ELPS_2_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2025-02-25-ELPS_2_PreRegistration.pdf) - Preregistration for ELPS project Exp 2.
@@ -64,4 +64,6 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2025-04-21-ELPS_3_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2025-04-21-ELPS_3_PreRegistration.pdf) - Preregistration for ELPS project Exp 3.
 * Status (2025-07-23). Preprint at  Hong, F., Bouhassira, R., Chow, J., Sanders, C., Shvartsman, M., Guan, P., Williams, A. H., & Brainard, D. H. (2025). Comprehensive characterization of human color discrimination thresholds. bioRxiv, 2025.2007.2016.665219. https://doi.org/10.1101/2025.07.16.665219.
 
+## Color discrimination ellipss in the iosluminant plane (with Williams and Guan labs)
 
+*n
