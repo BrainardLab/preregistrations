@@ -64,6 +64,6 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2025-04-21-ELPS_3_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2025-04-21-ELPS_3_PreRegistration.pdf) - Preregistration for ELPS project Exp 3.
 * Status (2025-07-23). Preprint at  Hong, F., Bouhassira, R., Chow, J., Sanders, C., Shvartsman, M., Guan, P., Williams, A. H., & Brainard, D. H. (2025). Comprehensive characterization of human color discrimination thresholds. bioRxiv, 2025.2007.2016.665219. https://doi.org/10.1101/2025.07.16.665219.
 
-## Color discrimination ellipss in the iosluminant plane (with Williams and Guan labs)
+## Color discrimination adaptation in the iosluminant plane (with Williams and Guan labs)
 
-*n
+* [2025-10-17-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2054-10-17-ELPS_1_PreRegistration.pdf) - Preregistration for ELPS initial adaptation project Exp 1.
