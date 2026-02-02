@@ -56,7 +56,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2022-03-26_AO Two Spot Summation, Addendum 2](https://github.com/BrainardLab/preregistrations/blob/main/AOTwoSpot/TwoSpotPreregistraiton-Addendum-2022-03-25.pdf) - Addendum 2, two-spot summation with same and different spot polarities, as a function of spot separation.
 * Status (2025-07-23). Project unlikely to complete at Penn.
 
-## Color discrimination ellipss in the iosluminant plane (with Williams and Guan labs)
+## Color discrimination ellipses in the iosluminant plane (with Williams and Guan labs)
 
 * [2024-11-18-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2024-11-18-ELPS_1_PreRegistration.pdf) - Preregistration for ELPS project Exp 1.
 * [2025-02-25-ELPS_2_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids/2025-02-25-ELPS_2_PreRegistration.pdf) - Preregistration for ELPS project Exp 2.
@@ -71,4 +71,8 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 ## Color discrimination in deuteranopes (with Williams and Guan labs)
 
 * [2025-11-15-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimDichrom/2025-11-15-ELPS_1_PreRegistration.pdf) - Preregistration for ELPS deuteranope Exp 1.
+* [2026-02-02-ELPS_2_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimDichrom/2026-02-02-ELPS_21_PreRegistration.pdf) - Addendum 1.
 
+## Color discrimination ellipsoids in full 3D color space (with Williams and Guan labs)
+
+* [2026-02-02-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids3D/2026-02-02-ELPS_1_PreRegistration.pdf) - Preregistration for ELPS ellipsoids in 3D color space.
