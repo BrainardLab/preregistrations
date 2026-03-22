@@ -73,7 +73,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 * [2025-11-15-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimDichrom/2025-11-15-ELPS_1_PreRegistration.pdf) - Preregistration for ELPS deuteranope Exp 1.
 * [2026-02-02-ELPS_2_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimDichrom/2026-02-02-ELPS_2_PreRegistration.pdf) - Addendum 1.
-* [2026-03-22-ELPS_3_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimDichrom/2026-03-22-ELPS_3_PreRegistration.pdf) - Ellipsoid control exp. After a practice session with a deuteranope [2026-03-22], the scalars for the Sobel trials were adjusted from the values of [0.15, 0.45, 0.75] in this document to [0.09, 0.15, 0.3] because the trials were very easy for the participant.
+* [2026-03-22-ELPS_3_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimDichrom/2026-03-22-ELPS_3_PreRegistration.pdf) - Ellipsoid control exp. After a practice session with a deuteranope [2026-03-22], we intended to adjust the scalars for the Sobel trials from the values of [0.15, 0.45, 0.75] in this document to [0.09, 0.15, 0.3] because the trials seemed easy for the participant. But, the experimenter neglected to make the adjustment, so the values in the preregistration document were used.  We may adjust them down for the second participant, depending on a more detailed analysis of the first participant's data.
 
 ## Color discrimination ellipsoids in full 3D color space (with Williams and Guan labs)
 
