@@ -77,3 +77,4 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 * [2026-02-02-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids3D/2026-02-02-ELPS_1_PreRegistration.pdf) - Preregistration for ELPS ellipsoids in 3D color space.
 * [2026-02-28-ELPS_2_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids3D/2026-02-28-ELPS_2_PreRegistration.pdf) - Initial analysis plan.
+* [2026-04-05-ELPS_3_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids3D/2026-04-05-ELPS_3_PreRegistration.pdf) - Initial hyperparameters for comparison with validation.
