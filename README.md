@@ -68,6 +68,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 * [2025-10-17-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimAdapt/2025-10-17-ELPS_1_PreRegistration.pdf) - Preregistration for ELPS adaptation project Exp 1.
 * [2026-02-21-ELPS_2_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimAdapt/2026-02-21-ELPS_2_PreRegistration.pdf) - Preregistration for ELPS adaptation project Exp 2.
+* [2026-04-08-ELPS_3_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimAdapt/2026-04-08-ELPS_3_PreRegistration.pdf) - Preregistration for ELPS adaptation, simulations and additional trials.
 
 ## Color discrimination in deuteranopes (with Williams and Guan labs)
 
