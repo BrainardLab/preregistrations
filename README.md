@@ -33,7 +33,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 ## Optoretinography Dependence on Eccentricity (with Morgan Lab)
 
-* [2022-08-19 Nrmative Cone Optoretinography Across Retinal Eccentricity using Adaptive Optics Scanning Laser Ophthalmoscopy](https://osf.io/n759w/). This pregistration is not yet public.
+* [2022-08-19 Normative Cone Optoretinography Across Retinal Eccentricity using Adaptive Optics Scanning Laser Ophthalmoscopy](https://osf.io/n759w/).
 * Status (2026): Published in Warner, R. L., Xu, P., Brainard, D. H., Morgan, J. I. W. (2025). The cone optoretinogram as a function of retinal eccentricity. Photonics, *12*(7), 676. doi: 10.3390/photonics12070676. https://www.mdpi.com/2304-6732/12/7/676.
 
 ## Single Cone Optoretinography (with Morgan Lab)
