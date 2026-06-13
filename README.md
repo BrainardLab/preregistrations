@@ -11,30 +11,30 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2021-12-14 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 3](https://osf.io/e6dfs/). Data collection complete.
 * [2022-02-12 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 4](https://osf.io/ekv24/). Data collection complete.
 * [2022-03-15 Measuring the Temporal lag to Combinations of L- and S- Photoreceptor Modulations via a Continuous Tracking Paradigm, Exp 5](https://osf.io/ewaum/).
-* Status (2022-08-20: Data collection complete. Preliminary descriptions available in Michael Barnett's and Ben Chin's dissertations. Manuscript in preparation.
+* Status (2025): Published in Barnett, M. A., Chin, B. M., Aguirre, G. K., Burge, J., Brainard, D. H. (2025). Temporal dynamics of human color processing measured using a continuous tracking task, Journal of Vision, 25(2):12. https://doi.org/10.1167/jov.25.2.12
 
 ## RayleighForcedChoice
 
 * [2021-04-15_OLRayleighMatch_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ForcedChoiceCM/RayleighForcedChoice/2012-04-15_OLRayleighMatch_PreRegistration.pdf). Preregistration for initial data collection in this project.  This file posted after 6 matches collected for Subject MELA_0034 and 2 matches collected for Subject MELA_0035.
 * [2021-04-15_OLRayleighMatch_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ForcedChoiceCM/RayleighForcedChoice/2021-07-07_OLRayleighMatch_PreRegistration_Updated.pdf). Preregistration for data collection on three new subjects with refined procedure.
-* Status (2022-08-20): Project potentially ongoing.
+* Status (2026): Project not likely to be completed.
 
 ## NaturalImageThresholds (with Cohen lab)
 
 * [2021-08-12_NaturalImageThresholds_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/NaturalImageThresholds/InitialExperiments_2021/2021-08-12_NaturalImageThresholds_PreRegistration.pdf)  - Preregistration for initial data collection in this project. This preregistration was posted to [ClinicalTrials.gov](ClinicalTrials.gov) in advance of the start of data collection: [NCT number: NCT05004649; protocol ID number 305435. The version there is archival](https://clinicaltrials.gov/ct2/show/NCT05004649).
-* Status (2023-05-26): Data collection complete. Analysis and writeup ongoing. Data posted at [OSF](https://osf.io/yf3sr/. Summary results reported on ClinicalTrials.gov, associated with the NCT number above.
+* Status (2025: Published in Srinath, R., Ni, A. M., Marucci, C., Cohen, M. R., Brainard, D. H. (2025). Orthogonal neural representations support perceptual judgements of natural stimuli. Scientific Reports, 15:5316, https://doi.org/10.1038/s41598-025-88910-8. Data posted at [OSF] (https://osf.io/yf3sr/. Summary results reported on ClinicalTrials.gov, associated with the NCT number above.
 
 ## Optoretinography Reliability and Reciprocity (with Morgan lab)
 
-* [2021-02-17 Test Reciprocity and Reliability of the Cone Optoretinogram](https://osf.io/sk78u/). This preregistration is not yet public. It provided preliminary data that informed the 2021-08-30 preregistration below.
-* [2021-08-30 Measuring Cone Optoretinogram Reciprocity and Repeatability using Adaptive Optics Scanning Laser Opthalmoscope](https://osf.io/xufdh/). This preregistration is not yet public.
-* [2021-09-15 Addendum on light power](https://osf.io/uah7m/). This preregistration is not yet public.
-* Status (2023-05-26): This work is now published in  Warner, R. L., Brainard, D. H., Morgan J. I. W. (2022). Repeatability and reciprocity of the cone optoretinogram, Biomed. Opt. Express, 13, 6561-6573. https://opg.optica.org/boe/fulltext.cfm?uri=boe-13-12-6561&id=521886. We will make the preregistrations public soon.
+* [2021-02-17 Test Reciprocity and Reliability of the Cone Optoretinogram](https://osf.io/sk78u/). This provided preliminary data that informed the 2021-08-30 preregistration below.
+* [2021-08-30 Measuring Cone Optoretinogram Reciprocity and Repeatability using Adaptive Optics Scanning Laser Opthalmoscope](https://osf.io/xufdh/).
+* [2021-09-15 Addendum on light power](https://osf.io/uah7m/).
+* Status (2023-05-26): Published in  Warner, R. L., Brainard, D. H., Morgan J. I. W. (2022). Repeatability and reciprocity of the cone optoretinogram, Biomed. Opt. Express, 13, 6561-6573. https://opg.optica.org/boe/fulltext.cfm?uri=boe-13-12-6561&id=521886.
 
 ## Optoretinography Dependence on Eccentricity (with Morgan Lab)
 
 * [2022-08-19 Nrmative Cone Optoretinography Across Retinal Eccentricity using Adaptive Optics Scanning Laser Ophthalmoscopy](https://osf.io/n759w/). This pregistration is not yet public.
-* Status (2023-05-26): Data collection halted because of apparatus issues. Project will be restarted soon.
+* Status (2026): Published in Warner, R. L., Xu, P., Brainard, D. H., Morgan, J. I. W. (2025). The cone optoretinogram as a function of retinal eccentricity. Photonics, *12*(7), 676. doi: 10.3390/photonics12070676. https://www.mdpi.com/2304-6732/12/7/676.
 
 ## Single Cone Optoretinography (with Morgan Lab)
 
@@ -42,12 +42,13 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 ## Repeatability of sensitivity thresholds in normal controls (with Morgan and Tuten labs)
 
-* [2023-08-08 Fepeatability of foveal sensitivity measurements within and across sessions as measured with adaptive optics (AO) microperimetry in normal control subjects](https://osf.io/bzf6g/). This pregistration is not yet public.
+* [2023-08-08 Repeatability of foveal sensitivity measurements within and across sessions as measured with adaptive optics (AO) microperimetry in normal control subjects](https://osf.io/bzf6g/). This pregistration is not yet public.
+* Status (2026): Manuscript under review.
 
 ## Adaptive Optics Image Quality (with Morgan lab)
 
 * [2020-12-04 Automated assessment of image quality in AO split detection images using edge quantification](https://osf.io/vmh6s/)
-* Status: Project complete. Published in Chen, M., Jiang, Y. Y., Gee J. C., Brainard, D. H., Morgan, J. I. W. (2022), Automated assessment of photoreceptor visibility in adaptive optics split-detection images using edge detection. Trans. Vis. Sci. Tech., 11(5):25. doi: https://doi.org/10.1167/tvst.11.5.25.
+* Status: Published in Chen, M., Jiang, Y. Y., Gee J. C., Brainard, D. H., Morgan, J. I. W. (2022), Automated assessment of photoreceptor visibility in adaptive optics split-detection images using edge detection. Trans. Vis. Sci. Tech., 11(5):25. doi: https://doi.org/10.1167/tvst.11.5.25.
 
 ## Adaptive optics psychophysics: two spot summation (with Morgan and Tuten labs)
 
@@ -83,3 +84,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2026-02-28-ELPS_2_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids3D/2026-02-28-ELPS_2_PreRegistration.pdf) - Initial analysis plan.
 * [2026-04-05-ELPS_3_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids3D/2026-04-05-ELPS_3_PreRegistration.pdf) - Initial hyperparameters for comparison with validation.
 * [2026-04-12-ELPS_4_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids3D/2026-04-12-ELPS_4_PreRegistration.pdf) - Comparison with CIELAB DE analyses.  The preregistration refers to this [html document](https://github.com/BrainardLab/preregistrations/blob/main/ColorEllipsoids3D/Fitted_ColorDiscrimination_6dExpt_RGBcube_sub1_decayRate0.4_nBasisDeg5_CIELAB_gamut_slice_comparison.html). The link will take you to github and you can download the html, rename the file created to have extension .html as it may show up as .txt, and view in your browser.
+
+## Color discrimination local and global adaptation (with Williams and Guan labs)
+
+* [2026-06-13-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimLocalGlobal/2026-06-13-ELPS_1_PreRegistration.pdf) - Preregistration for ELPS local and global adaptation experiment.
