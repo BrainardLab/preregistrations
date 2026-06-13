@@ -42,7 +42,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 ## Repeatability of sensitivity thresholds in normal controls (with Morgan and Tuten labs)
 
-* [2023-08-08 Repeatability of foveal sensitivity measurements within and across sessions as measured with adaptive optics (AO) microperimetry in normal control subjects](https://osf.io/bzf6g/). This pregistration is not yet public.
+* [2023-08-08 Repeatability of foveal sensitivity measurements within and across sessions as measured with adaptive optics (AO) microperimetry in normal control subjects](https://osf.io/bzf6g/).
 * Status (2026): Manuscript under review.
 
 ## Adaptive Optics Image Quality (with Morgan lab)
