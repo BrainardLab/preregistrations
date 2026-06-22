@@ -91,4 +91,4 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 ## Color discrimination in upper and lower visual fields (with Smithson lab)
 
-* [2026-06-22-OPL_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimOPLVisualField/2026-06-22-OPL_1_PreRegistration.pdf) - Preregistration for initial ellipsoid around one reference in 3D color space.
+* [2026-06-22-OPL_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimOPLVisualField/2026-06-22-OPL_1_PreRegistraiton.pdf) - Preregistration for initial ellipsoid around one reference in 3D color space.
