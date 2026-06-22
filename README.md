@@ -88,3 +88,7 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 ## Color discrimination local and global adaptation (with Williams and Guan labs)
 
 * [2026-06-13-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimLocalGlobal/2026-06-13-ELPS_1_PreRegistration.pdf) - Preregistration for ELPS local and global adaptation experiment.
+
+## Color discrimination in upper and lower visual fields (with Smithson lab)
+
+* [2026-06-22-OPL_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimOPLVisualField/2026-06-22-OPL_1_PreRegistration.pdf) - Preregistration for initial ellipsoid around one reference in 3D color space.
