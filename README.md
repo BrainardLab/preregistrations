@@ -96,4 +96,4 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 ## Threshold and suprathreshold color difference perception.
 
-* [2026-09-08-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorSupraThreshold/2026-09-08-ELPS_1_PreRegistration.pdf) - Preregistration for ELPS suprathreshold measurements.
+* [2026-09-08-ELPS_1_PreRegistration](https://[github.com/BrainardLab/preregistrations/blob/main/ColorSupraThreshold/2026-09-08-ELPS_1_PreRegistration.pdf](https://github.com/BrainardLab/preregistrations/blob/main/ColorSupraThreshold/2026-09-08-ELPS_1_Preregistraiton.suprathres.pdf) - Preregistration for ELPS suprathreshold measurements.
