@@ -100,6 +100,6 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 
 ## Photoreceptor directed brightness contrast matching.
 
-* [2026-10-08-BRGT_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/BRGT/2026-10-08-BRGT_1_Preregistration.pdf) - Preregistration for BRGT brightness contrast matching measurements.
+* [2026-10-08-BRGT_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/BRGT/2026-10-08-BRGT_1_PreRegistration.pdf) - Preregistration for BRGT brightness contrast matching measurements.
 
   
