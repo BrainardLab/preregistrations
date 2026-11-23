@@ -94,9 +94,10 @@ Experiments in the Brainard Lab are usually preregistered. This page organizes l
 * [2026-06-22-OPL_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimOPLVisualField/2026-06-22-OPL_1_PreRegistraiton.pdf) - Preregistration for initial ellipsoid around one reference in 3D color space.
 * [2026-08-09-OPL_2_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorDiscrimOPLVisualField/2026-08-09-OPL_2_PreRegistration.pdf) - Addendum, repeat measurement and additional subjects.
 
-## Threshold and suprathreshold color difference perception.
+## Threshold and suprathreshold color difference perception (with Williams and Guan labs)
 
 * [2026-09-08-ELPS_1_PreRegistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorSupraThreshold/2026-09-08-ELPS_1_Preregistration.pdf) - Preregistration for ELPS suprathreshold measurements.
+* [2026-11-23-ELPS_2_Preregistration](https://github.com/BrainardLab/preregistrations/blob/main/ColorSupraThreshold/2026-11-23-ELPS_2_Preregistration.pdf) - Preregistration for ELPS suprathreshold follow up.
 
 ## Photoreceptor directed brightness contrast matching.
 
